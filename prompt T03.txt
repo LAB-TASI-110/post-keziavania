@@ -1,0 +1,29 @@
+Buatlah sebuah sistem yang mendukung operasional kafetaria IT Del.
+
+diatas adalah soal ketiga atau soal terakhir, andaikan kamu adalah seorang yang sangat ahli atau sering diandalkan dalam penggunaan bahasa pemrograman java, buatlah dua kode dengan main code (driver3.java) dan modelnya (model3.java), adanya tujuan dari program ini adalah untuk mengetahui bagaimana sih sistem operasional kafetaria di Institut Teknologi Del, kode tersebut menggunakan library import dan package, lalu kode ini diletakkan atau akan dieksekusi di platform visual studio code, struktur code yang diinginkan adalah model berorientasi objek atau oop, dan menggunakan clean code (yang tidak usah ada comment atau penjelasan yang menggunakan "//".
+
+alur dari sistem operasional Institut Teknologi Del adalah, pelanggan ataupun mahasiswa (tetapi bisa juga dosen/staff) yang ingin memesan makanan yang tersedia di kafetaria secara dua opsi (Online atau lewat chat dan Offline atau mendatangi kafetaria secara langsung) dan ada beberapa pesanan yang tidak tersedia atau tersedia, lalu kafetaria tidak menyediakan sistem pengantaran, baik itu untuk mahasiswa ataupun dosen, lalu para staff kafetaria mencatat secara manual pesanan pelanggannya baik secara online atau offline, lalu mereka memproses makanan tersebut, untuk pesanan yang sudah selesai diproses, bagi pelanggan offline, para staff meneriaki nama pelanggan tetapi bagi pelanggan online, para staff akan menchat pelanggan nya untuk menjemput makanan yang sudah selesai di proses. untuk pembayaran ada dua metode yaitu tunai dan non-tunai.
+
+berikut harga dari pesanan yang tersedia yaitu
+bakwan dengan harga 10.000
+tahu dengan harga 10.000
+tempe dengan harga 10.000
+gabin dengan harga 10.000
+donat dengan harga 10.000
+roti isi ayam dengan harga 15.000
+
+format input nya adalah 
+[nama makanan]
+[harga]
+[metode pembayaran]
+
+format output nya adalah
+nama makanan | total pesanan | metode pembayaran
+
+batasannya adalah mengurangi error yang ada di dalam code dan luaran yang diinginkan adalah dua kode yang lengkap (driver3.java / main codenya dan model3.java)
+
+---
+
+ada errornya, bisakah kamu memberikan kode perbaikkannya?
+format input dan outputnya?
+tidak mengeluarkan outputnya, dan bisakah kamu memperbaiki codenya dengan menjumlahkan seluruh makanan yang dipesan, semisal yang diinput ada 2 pesanan contohnya adalah bakwan dan tempe, kedua harga dari pesanan tersebut ditotal, dan inputan akan berakhir ketika selesai diketik end

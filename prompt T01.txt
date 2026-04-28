@@ -1,0 +1,22 @@
+ini adalah soal pertama, andai kamu seorang ahli java, buatlah sebuah dua kode yang diantara lain adalah main code (driver 1) dan di model nya (model1) dengan menggunakan bahasa program java, tujuan program ini adalah untuk menghasilkan kode yang menjabarkan cara proses pengantaran barang sesuai dengan kota yang diinginkan dan berat barang yang diantarkan. menggunakan library import dan bisa juga dengan menggunakan package, kode ini akan diletakkan atau di eksekusi di platform visual studio code, struktur kode yang diinginkan adalah model berorientasi objek, format input yang diinginkan adalah:
+MDN
+5
+JKT
+3
+BLG
+4
+END
+format output yang diinginkan adalah:|
+truk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh
+luaran yang diinginkan adalah dua kode yang lengkap (driver1.java / main codenya dan model1.java)
+
+belum sesuai dengan output yang diinginkan, bisakah kamu memberikan clean code yang tidak usah menggunakan tanda "/" dan berikut format input yang diinginkan: MDN
+5
+JKT
+3
+BLG
+4
+END
+di input ini tunggu diketik satu satu sampai diketik end lalu keluar outputnya, kode yang kamu kasih di atas belum semua inputan yang diketik tetapi output sudah dikeluarkan, berikut format output yang diinginkan: Struk Pembayaran yang terdiri dari: Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh
+
+error dia boss, bisakah kamu berikan kode perbaikkannya?

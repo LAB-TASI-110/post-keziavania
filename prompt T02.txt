@@ -1,0 +1,8 @@
+berikut adalah soal kedua, andai kamu adalah seorang yang sangat ahli dalam bahasa pemrograman java, buatlah dua kode dengan main code (driver2.java) dan model2.java, adanya tujuan dari program ini adalah yang dapat menentukan total stok hanya untuk kategori barang yang diminta, dengan menggunakan library import dan package, lalu kode ini akan diletakkan atau di eksekusi di platform visual studio code, struktur kode yang diinginkan adalah model berorientasi objek atau oop, dan aku mau seluruh kodenya yang lengkap dan clean code. 
+adapun format input yang diinginkan adalah 
+1. Jumlah total data (N).
+2. Deret stok (s1, s2, ..., sN).
+3. Kode kategori barang.
+format output yang diinginkan adalah sesuaikan saja dengan input yang aku berikan dan soal yang ada di gambar tersebut. batasannya adalah mengurangi error yang ada di dalam code nya dan luaran yang diinginkan adalah dua kode yang lengkap (driver2.java / main codenya dan model2.java) 
+
+maksudnya dari inputan angka 4 itu apa?
